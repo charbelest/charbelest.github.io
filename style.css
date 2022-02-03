@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,500&family=Libre+Baskerville:wght@700&family=Open+Sans:wght@600&family=Outfit:wght@500&family=Rubik:wght@600&display=swap');
+#header {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#set {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+  
+}
+
+#iPhone13pro {
+    
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#firstone {
+    text-align: center;
+}
+#ipadpro {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+#airpods {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#applewatch {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#mac {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#tv {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#headbtm {
+    text-align: center;
+}
